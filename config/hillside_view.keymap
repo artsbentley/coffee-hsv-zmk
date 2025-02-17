@@ -6,6 +6,7 @@
 // Layers must be defined before base.keymap is imported, since it defines
 // certain entities based on the existence of layers that only exist on boards
 // big enough to have keys to access them.
+//
 
 #include "common_keymap.dtsi"
 #include <behaviors.dtsi>
